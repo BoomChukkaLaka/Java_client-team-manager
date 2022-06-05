@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="client-core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../Core Jar file Latest/client-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
